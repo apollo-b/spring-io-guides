@@ -1,6 +1,8 @@
 # Description
-###Tutorial: Routing and Filtering
-#####This project is a microservice application that routes and filters requests using Netflix Zuul edge service library.
+
+Tutorial: Routing and Filtering
+
+This project is a microservice application that routes and filters requests using Netflix Zuul edge service library.
 
 # Technologies
 * Java, J2EE, Spring

@@ -1,6 +1,8 @@
 # Description
-###Tutorial: Building RESTful Web Service
-#####This project is a RESTful web service version of "hello world" built with Spring.
+
+Tutorial: Building RESTful Web Service
+
+This project is a RESTful web service version of "hello world" built with Spring.
 
 # Technologies
 * Java, J2EE, Spring

@@ -1,6 +1,8 @@
 # Description
-###Tutorial: Consuming RESTful Web Service
-#####This project is an application that consumes a RESTful web service.
+
+Tutorial: Consuming RESTful Web Service
+
+This project is an application that consumes a RESTful web service.
 
 # Technologies
 * Java, J2EE, Spring

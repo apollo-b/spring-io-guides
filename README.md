@@ -1,5 +1,6 @@
 # Description
-#####This directory contains code from tutorials that I completed for the Spring Framework.
+
+This directory contains code from tutorials that I completed for the Spring Framework.
 
 # Technologies
 * Java, J2EE, Spring
