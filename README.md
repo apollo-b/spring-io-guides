@@ -4,10 +4,10 @@ This directory contains code from tutorials that I completed for the Spring Fram
 
 # Technologies
 * Java, J2EE, Spring
-* Maven, SpringBoot, Netflix Zuul
+* Maven, Spring Boot, Spring Data, Netflix Zuul
 * JSP, HTML, JavaScript, CSS
 * REST, testing with JUnit
-* Tomcat
+* Tomcat, MongoDB
 * Client/Server architecture
 
 # Code Source
